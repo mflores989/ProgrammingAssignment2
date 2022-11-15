@@ -29,3 +29,5 @@ s <- solve(data, ...)
 x$setinverse(s)
 s
 }
+
+	
